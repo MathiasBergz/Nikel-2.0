@@ -1,4 +1,4 @@
-# Nikel-2.0--2--Tentativa-
+# Nikel-2.0
 
 Este é um repositório de exemplo para o projeto [Codaí](https://codai.growdev.com.br).
 
